@@ -1,4 +1,4 @@
-// програмная реализация радиосвязи ( стырено с VirtualWire)
+//11 програмная реализация радиосвязи ( стырено с VirtualWire)
 #include<stdint.h>
 #ifndef SOFT_RF
 #define SOFT_RF
